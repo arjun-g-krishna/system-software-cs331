@@ -7,14 +7,14 @@
 - Shortest Job First (SJF)
 
 
-Non pre emptive CPU scheduling using [FCFS]: https://github.com/arjun-g-krishna/system-software-cs331/blob/master/program-1/fcfs.c
+Non pre emptive CPU scheduling using FCFS
 
 
 
 ![](2020-09-26-112814_1920x1080_scrot.png)
 
 
-Non pre emptive CPU scheduling using [SJF]: https://github.com/arjun-g-krishna/system-software-cs331/blob/master/program-1/sjf.c
+Non pre emptive CPU scheduling using SJF
 
 
 
