@@ -16,7 +16,7 @@
 
 ![](twolevel3.jpg)
 
-### Hirearchial
+### Hierarchial
 
 ![](hierarchial1.jpg)
 
