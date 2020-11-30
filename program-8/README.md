@@ -6,7 +6,7 @@ The dining philosopher is a classic synchronization problem as it demonstrates a
 
 ### Solution
 
-[Source cdde](dining.c)
+[Source code](dining.c)
 
 A solution of the Dining Philosophers Problem is to use a semaphore to represent a fork. A fork can be picked up by executing a wait operation on the semaphore and released by executing a signal semaphore.
 
