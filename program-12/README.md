@@ -12,6 +12,8 @@ Implement a single pass assembler
 
 [Source code](singlepass.c)
 
+[Output file](spout.txt)
+
 ### Output screenshots
 
 ![](singlepass.jpg)
