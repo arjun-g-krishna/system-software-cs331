@@ -1,0 +1,12 @@
+**macrom1
+**movea,b
+**mend---
+**macrom2
+**ldab
+**mend---
+**start1000
+**ldaa
+**callm1
+**callm2
+**adda,b
+**adda,b

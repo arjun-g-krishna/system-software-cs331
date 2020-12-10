@@ -1,0 +1,11 @@
+** macro m1
+** move a,b
+** mend ---
+** macro m2
+** lda b
+** mend ---
+** start 1000
+** lda a
+** call m1
+** call m2
+** add a,b
