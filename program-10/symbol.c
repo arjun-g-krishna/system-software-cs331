@@ -11,7 +11,8 @@ struct SymbTab
 {
  char label[10],symbol[10];
  int addr;
-struct SymbTab *next;};
+ struct SymbTab *next;
+};
 struct SymbTab *first,*last;
 int main()
 {
