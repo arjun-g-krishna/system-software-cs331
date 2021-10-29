@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int n, m;
 void read(int alloc[][10], int max[][10], int avail[10], int need[][10], int n, int m);
 void display(int temp[][10], int n, int m);
@@ -8,7 +7,6 @@ int safety(int alloc[][10], int avail[10], int need[][10], int n, int m);
 int main()
 {
     int alloc[10][10], max[10][10], avail[10], need[10][10];
-
     printf("DEADLOCK AVOIDANCE USING BANKER'S ALGORITHM\n");
     read(alloc, max, avail, need, n, m);
     return 0;
