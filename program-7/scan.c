@@ -12,6 +12,7 @@ int main() {
     for(i=1;i<=n;i++) {                                     /* head element to be read */ 
         scanf("%d",&diskQueue[i]);
     }
+    
     printf("Enter the initial head position: ");
     scanf("%d", &start);                                
     diskQueue[0] = start;                                    /* injecting to the first position */
